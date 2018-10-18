@@ -147,9 +147,6 @@ If you have an idea for a new feature, please feel free to submit it as a pull r
 5. Submit a pull request :D
 6. Your name shows up in credits
 
-## Credits
-* **Akinjiola Toni** *Toniton* [angular-paystack](https://github.com/toniton/angular-paystack)
-
 ## License
 [MIT License](LICENSE.md) Copyright © 2016
 # sails-count
